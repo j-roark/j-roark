@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @j-roark
+- 👀 I’m interested in Systems Programming.
+- 🌱 I’m currently learning low-level memory management techniques and best practices.
+- 💞️ I’m looking to collaborate on anything that I can offer help with.
