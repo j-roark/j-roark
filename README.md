@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @j-roark
-- 👀 I’m interested in systems programming.
-- 🌱 I’m currently learning graphics programming.
-- 💞️ My favorite languages are Rust, Python (typed enforced!), C, Go, TypeScript, and Lua!
+
